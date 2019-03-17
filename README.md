@@ -2,7 +2,7 @@
 To install and save in your package.json dependencies, run:<br />
 
 Step-1<br />
---install node js in your syastem if it is not available.<br />
+--install node js in your system if it is not available.<br />
 --download the project<br />
 Step-2<br />
 -- run commands--<br />
